@@ -1,3 +1,0 @@
-/home/givante/dev/my_cpp_project/build/CMakeFiles/my_app.dir
-/home/givante/dev/my_cpp_project/build/CMakeFiles/edit_cache.dir
-/home/givante/dev/my_cpp_project/build/CMakeFiles/rebuild_cache.dir
